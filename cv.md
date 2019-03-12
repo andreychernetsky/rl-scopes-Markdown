@@ -9,12 +9,11 @@
 * **Skype:** live:curowa_1
 
 ###<h3>Summary:</h3>
-**Get high knowledge and in 5 years to create your own IT company.**
+**Get high knowledge in five years I plan to be a business analyst**
  
  ###<h3>Skills:</h3>
  * **HTML5** 
  * **CSS3**  
- * **BEM**
  * **BEM**
  * **JavaScript**
  * **Sass/Less**
